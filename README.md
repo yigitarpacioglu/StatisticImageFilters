@@ -1,6 +1,7 @@
 # StatisticImageFilters
 
 Mean Filtering
+
 This linear filter is implemented by a local averaging process where each pixel value is changed by average of local neighborhood. It is also named by sliding-window averaging filter. That why it takes average of pixels in window.
 Minimum Filtering
 The transformation replaces the central pixel with the darkest one in the running window. Consider, if you have text that is lightly printed, the minimum filter makes letters thicker.
